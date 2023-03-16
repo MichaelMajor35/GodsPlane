@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scene.unity
+- path: Assets/Character/Blink/Art/Characters/LowPoly/Demo_FREE_LowPolyCharacter/DEMO_FREE_LowPolyHumans.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
